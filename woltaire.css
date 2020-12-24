@@ -9,7 +9,7 @@
 
 .u-section-1 .u-text-1 {
   font-weight: bold;
-  margin: 30px auto 0 15px;
+  margin: 30px 852px 0 15px;
 }
 
 .u-section-1 .u-btn-1 {
@@ -29,6 +29,7 @@
 
   .u-section-1 .u-text-1 {
     margin-left: 12px;
+    margin-right: auto;
   }
 
   .u-section-1 .u-btn-1 {
@@ -101,7 +102,7 @@
 }
 
 .u-section-3 .u-sheet-1 {
-  min-height: 687px;
+  min-height: 727px;
 }
 
 .u-section-3 .u-repeater-1 {
@@ -227,7 +228,7 @@
 
 @media (max-width: 1199px) {
   .u-section-3 .u-sheet-1 {
-    min-height: 467px;
+    min-height: 500px;
   }
 
   .u-section-3 .u-repeater-1 {
@@ -273,7 +274,7 @@
 
 @media (max-width: 991px) {
   .u-section-3 .u-sheet-1 {
-    min-height: 1074px;
+    min-height: 1107px;
   }
 
   .u-section-3 .u-repeater-1 {
@@ -370,10 +371,10 @@
 }
 
 .u-section-4 .u-repeater-1 {
-  min-height: 567px;
+  min-height: 568px;
   grid-template-columns: calc(33.3333% - 20px) calc(33.3333% - 20px) calc(33.3333% - 20px);
   margin-top: 60px;
-  margin-bottom: 60px;
+  margin-bottom: 0;
   grid-gap: 30px 30px;
   height: auto;
 }
@@ -391,13 +392,13 @@
   width: 264px;
   background-image: url("images/images.png");
   background-position: 50% 50%;
-  margin: 48px auto 0;
+  margin: 0 auto;
 }
 
 .u-section-4 .u-text-1 {
   font-weight: 400;
   font-family: Anton;
-  margin: 20px auto 0;
+  margin: 11px auto 0;
 }
 
 .u-section-4 .u-btn-1 {
@@ -406,8 +407,7 @@
   text-transform: uppercase;
   font-size: 0.875rem;
   letter-spacing: 1px;
-  margin-left: auto;
-  margin-right: auto;
+  margin: 124px auto 0;
 }
 
 .u-section-4 .u-repeater-item-2 {
@@ -423,13 +423,13 @@
   width: 264px;
   background-image: url("images/images.png");
   background-position: 50% 50%;
-  margin: 48px auto 0;
+  margin: 0 auto;
 }
 
 .u-section-4 .u-text-2 {
   font-weight: 400;
   font-family: Anton;
-  margin: 20px auto 0;
+  margin: 11px auto 0;
 }
 
 .u-section-4 .u-btn-2 {
@@ -438,8 +438,7 @@
   text-transform: uppercase;
   font-size: 0.875rem;
   letter-spacing: 1px;
-  margin-left: auto;
-  margin-right: auto;
+  margin: 124px auto 0;
 }
 
 .u-section-4 .u-repeater-item-3 {
@@ -455,13 +454,13 @@
   width: 264px;
   background-image: url("images/images.png");
   background-position: 50% 50%;
-  margin: 48px auto 0;
+  margin: 0 auto;
 }
 
 .u-section-4 .u-text-3 {
   font-weight: 400;
   font-family: Anton;
-  margin: 20px auto 0;
+  margin: 11px auto 0;
 }
 
 .u-section-4 .u-btn-3 {
@@ -470,13 +469,31 @@
   text-transform: uppercase;
   font-size: 0.875rem;
   letter-spacing: 1px;
-  margin-left: auto;
-  margin-right: auto;
+  margin: 124px auto 0;
+}
+
+.u-section-4 .u-text-4 {
+  font-weight: 700;
+  font-size: 1.125rem;
+  margin: -195px 824px 0 43px;
+}
+
+.u-section-4 .u-text-5 {
+  font-weight: 700;
+  width: 218px;
+  font-size: 1rem;
+  margin: -112px auto 0;
+}
+
+.u-section-4 .u-text-6 {
+  font-size: 1.125rem;
+  font-weight: 700;
+  margin: -112px 71px 60px 851px;
 }
 
 @media (max-width: 1199px) {
   .u-section-4 .u-sheet-1 {
-    min-height: 467px;
+    min-height: 466px;
   }
 
   .u-section-4 .u-repeater-1 {
@@ -501,11 +518,21 @@
     margin-left: initial;
     width: auto;
   }
+
+  .u-section-4 .u-text-4 {
+    margin-right: 667px;
+    margin-left: 0;
+  }
+
+  .u-section-4 .u-text-6 {
+    margin-right: 0;
+    margin-left: 722px;
+  }
 }
 
 @media (max-width: 991px) {
   .u-section-4 .u-sheet-1 {
-    min-height: 1074px;
+    min-height: 1073px;
   }
 
   .u-section-4 .u-repeater-1 {
@@ -532,6 +559,14 @@
     width: 278px;
     margin-left: auto;
     margin-right: auto;
+  }
+
+  .u-section-4 .u-text-4 {
+    margin-right: 447px;
+  }
+
+  .u-section-4 .u-text-6 {
+    margin-left: 502px;
   }
 }
 
@@ -569,6 +604,14 @@
     height: 271px;
     width: 271px;
   }
+
+  .u-section-4 .u-text-4 {
+    margin-right: 267px;
+  }
+
+  .u-section-4 .u-text-6 {
+    margin-left: 322px;
+  }
 }
 
 @media (max-width: 575px) {
@@ -585,5 +628,13 @@
   .u-section-4 .u-container-layout-3 {
     padding-left: 20px;
     padding-right: 20px;
+  }
+
+  .u-section-4 .u-text-4 {
+    margin-right: 67px;
+  }
+
+  .u-section-4 .u-text-6 {
+    margin-left: 122px;
   }
 }
