@@ -31200,16 +31200,31 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 
 .u-header .u-sheet-1 {
-  min-height: 75px;
+  min-height: 50px;
 }
 
+.u-header .u-menu-1 {
+  margin: 21px -68px 0 auto;
+}
 
+.u-header .u-nav-1 {
+  font-size: 1rem;
+  font-weight: 700;
+  letter-spacing: 0px;
+  background-image: none;
+}
 
-@media (max-width: 575px) {
-  .u-header .u-sheet-1 {
-    min-height: 10px;
+.u-header .u-nav-2 {
+  font-size: 1.25rem;
+}
+@media (max-width: 1199px) {
+  .u-header .u-menu-1 {
+    margin-right: 0;
   }
 }
+
+
+
 .u-footer {
   background-image: none;
 }
