@@ -118,8 +118,7 @@
   text-transform: uppercase;
   font-size: 0.875rem;
   letter-spacing: 1px;
-  margin-left: auto;
-  margin-right: auto;
+  margin: 20px auto 0;
 }
 
 .u-section-3 .u-repeater-item-2 {
@@ -156,8 +155,7 @@
   text-transform: uppercase;
   font-size: 0.875rem;
   letter-spacing: 1px;
-  margin-left: auto;
-  margin-right: auto;
+  margin: 20px auto 0;
 }
 
 .u-section-3 .u-repeater-item-3 {
@@ -194,8 +192,7 @@
   text-transform: uppercase;
   font-size: 0.875rem;
   letter-spacing: 1px;
-  margin-left: auto;
-  margin-right: auto;
+  margin: 20px auto 0;
 }
 
 @media (max-width: 1199px) {
@@ -388,11 +385,6 @@
     margin-top: 15px;
   }
 
-  .u-section-3 .u-btn-1 {
-    margin-top: 20px;
-    margin-bottom: 0;
-  }
-
   .u-section-3 .u-container-layout-2 {
     padding-left: 20px;
     padding-right: 20px;
@@ -410,11 +402,6 @@
     margin-top: 15px;
   }
 
-  .u-section-3 .u-btn-2 {
-    margin-top: 20px;
-    margin-bottom: 0;
-  }
-
   .u-section-3 .u-container-layout-3 {
     padding-left: 20px;
     padding-right: 20px;
@@ -430,11 +417,6 @@
 
   .u-section-3 .u-text-6 {
     margin-top: 15px;
-  }
-
-  .u-section-3 .u-btn-3 {
-    margin-top: 20px;
-    margin-bottom: 0;
   }
 }.u-section-4 {
   background-image: linear-gradient(0deg, rgba(0,0,0,1), rgba(0,0,0,1)), url("images/woltairegiri.png");
