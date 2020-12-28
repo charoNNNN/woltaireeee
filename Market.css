@@ -442,7 +442,7 @@
 }
 
 .u-section-4 .u-sheet-1 {
-  min-height: 627px;
+  min-height: 668px;
 }
 
 .u-section-4 .u-repeater-1 {
@@ -653,7 +653,7 @@
 
 @media (max-width: 767px) {
   .u-section-4 .u-sheet-1 {
-    min-height: 1024px;
+    min-height: 1058px;
   }
 
   .u-section-4 .u-repeater-1 {
@@ -744,13 +744,13 @@
 }
 
 .u-section-5 .u-sheet-1 {
-  min-height: 674px;
+  min-height: 624px;
 }
 
 .u-section-5 .u-product-1 {
   min-height: 574px;
   background-image: none;
-  margin-top: 50px;
+  margin-top: 0;
   margin-bottom: 50px;
 }
 
